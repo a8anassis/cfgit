@@ -1,2 +1,2 @@
 # cfgit
-version 2 github
+version 2 local
